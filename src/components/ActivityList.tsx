@@ -1,6 +1,5 @@
 import React from "react";
 import { Activity } from "../types";
-import { Check, X } from "lucide-react";
 
 interface ActivityListProps {
     activities: Activity[];
