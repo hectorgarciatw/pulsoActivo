@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import ActivityForm from "./components/ActivityForm";
 import ActivityList from "./components/ActivityList";
 import WeeklyStats from "./components/WeeklyStats";
